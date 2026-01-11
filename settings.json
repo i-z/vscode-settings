@@ -17,5 +17,23 @@
     "editor.renderWhitespace": "all",
     "github.copilot.nextEditSuggestions.enabled": true,
     "editor.fontLigatures": true,
-    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace"
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "workbench.colorTheme": "JetBrains Rider Dark Theme",
+    "workbench.colorCustomizations": {
+        "editor.background": "#0E1116",
+
+        "sideBar.background": "#0B0E14",
+        "activityBar.background": "#090C10",
+        "statusBar.background": "#090C10",
+
+        "panel.background": "#0B0E14",
+        "titleBar.activeBackground": "#090C10",
+
+        "tab.activeBackground": "#0E1116",
+        "tab.inactiveBackground": "#090C10",
+
+        "terminal.background": "#0B0E14"
+  }
 }
