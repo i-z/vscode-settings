@@ -1,0 +1,21 @@
+{
+    "terminal.integrated.profiles.windows":
+    {
+        "Developer Command Prompt": {
+            "path": [
+
+                "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+            ],
+            "args": [
+                "-noe",
+                "-c",
+                "&{Import-Module \"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\Microsoft.VisualStudio.DevShell.dll\"; Enter-VsDevShell 8d983eca}"
+            ],
+            "icon": "terminal"
+        }
+    },
+    "editor.renderWhitespace": "all",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace"
+}
